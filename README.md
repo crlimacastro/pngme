@@ -1,4 +1,4 @@
-My "going through" of the PNGme Project.
+Going through the PNGme Project.
 
 # Link to the Project
 
