@@ -1,4 +1,4 @@
-Going through the PNGme Project.
+Going through the PNGme Project. A CLI tool to encode hidden messages within PNGs.
 
 # Link to the Project
 
